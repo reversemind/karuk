@@ -2,7 +2,7 @@
 Karuk - is intellectual stream processing system
 ===
 
-Karuk - scalable, distributed system for stream processing / any JVM-based language
+Karuk - intellectual, scalable, distributed system for stream processing / any JVM-based language
 
 Wiki definition of the word **Karuk**
 
